@@ -1,0 +1,2 @@
+# Story
+Playing with Git
